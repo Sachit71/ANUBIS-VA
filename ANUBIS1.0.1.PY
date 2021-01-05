@@ -39,4 +39,5 @@ elif Dec1=="EASTER EGG!!!":
      pyautogui.alert("¯\_(ツ)_/¯  NOTHING HERE HUMAN!")
 else:
     pyautogui.alert("Invalid Command...:p,Ciao!")
+
 pyautogui.alert("Thank you for downloading ANUBIS, as we are a growing Non-profit free software please do consider donating to ANUBIS,for more info write to us @quantechlxxi.corp@gmail.com -ANUBIS developer")
