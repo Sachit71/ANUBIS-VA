@@ -1,0 +1,29 @@
+ANUBIS 1.0.1 PATCH NOTES:
+Wolfram|Alpha works within the ANUBS framework.
+
+Prerequisites:Python must be installed and configured., or can be installed as an exe file.
+
+Works online only.
+There will be newer and better versions of this.
+It is has been made using Python.
+Basic Machine Learning ALgorithms and legal API's.
+API credit to Wolfram|ALpha.
+This open source so feel free to improvise our code,and help us grow.
+Can be found on GitHub.  https://github.com/Sachit71?tab=repositories
+Also feel free to contact us on: Instagram:demented_cyberpunk  https://www.instagram.com/demented_cyberpunk/
+                                 Discord:DEMENTED_CYBERPUNK
+                                 Email:quantechlxxi.corp@gmail.com 
+What is new in 1.0.1: 1.)Wikipedia!!
+                      2.)URL opener
+                      3.)Google registered phone number tracker
+                      4.)Nerdy joke generator.
+                      5.)2 easter eggs! Explore and find 'em.
+                      
+What to expect in 1.0.2: 1.)Currency convertor
+                         2.)Weather report
+                         3.)Everyday quotes
+                         
+
+Till then have fun,Ciao.
+
+Yours truly,Sachit;)
